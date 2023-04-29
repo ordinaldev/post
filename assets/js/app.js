@@ -16,7 +16,7 @@ navbars.innerHTML = `<header class="header">
 </div>
 <div class="header-bottom skewBg" data-header>
     <div class="container">
-        <a href="/" class="logo">Rivana <sup style="font-size: small;">Blog</sup></a>
+        <a href="/" class="logo">Ordinal <sup style="font-size: small;">Blog</sup></a>
         <nav class="navbar" data-navbar>
             <ul class="navbar-list">
 
