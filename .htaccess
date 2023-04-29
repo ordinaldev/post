@@ -1,3 +1,4 @@
+ErrorDocument 404 /404.html
 
 <IfModule mod_rewrite.c>
 RewriteEngine on
@@ -6,4 +7,4 @@ RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.*)$ $1.html
 </IfModule>
 
-ErrorDocument 404 /404.html
+
