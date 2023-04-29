@@ -45,7 +45,7 @@ const footers = document.getElementById('kaki');
 footers.innerHTML = `<div class="footer-top">
     <div class="container">
         <div class="footer-brand">
-            <a href="#" class="logo">Rivana</a>
+            <a href="https://rivana.netlify.app" class="logo">Rivana</a>
             <p class="footer-text">
                 berbagi pendapat dan pengetahuan tentang programming
             </p>
